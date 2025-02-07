@@ -3,7 +3,7 @@ Run with Spesific Tags - mvn test -Dcucumber.options="--tags @SmokeTest"
 TestRunner under Src/test/java/TestRunner
 
 used a Hybrid Framwork
-ActiveQuote-Automation/
+Quote-Automation/
 │── src/
 │   ├── main/java/com/pages/         
 │   ├── main/java/com/utils/         
